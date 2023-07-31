@@ -1,0 +1,22 @@
+#content{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 15vh;
+	width: 20%;
+	background-color: darkred;
+	font-size: 20px;
+	color: darkred;
+	border-radius: 8%;
+
+}
+
+#image{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 75;
+	width: 75;
+	border-spacing: ;
+
+}
